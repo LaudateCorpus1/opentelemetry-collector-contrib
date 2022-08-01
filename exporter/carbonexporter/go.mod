@@ -8,5 +8,5 @@ require (
 	github.com/stretchr/testify v1.7.0
 	go.opentelemetry.io/collector v0.31.1-0.20210810171211-8038673eba9e
 	go.opentelemetry.io/collector/model v0.31.1-0.20210810171211-8038673eba9e
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/protobuf v1.28.1
 )
