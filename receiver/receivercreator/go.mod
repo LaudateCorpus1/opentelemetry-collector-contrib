@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/antonmedv/expr v1.8.9
-	github.com/census-instrumentation/opencensus-proto v0.3.0
+	github.com/census-instrumentation/opencensus-proto v0.4.1
 	github.com/mattn/go-colorable v0.1.7 // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/extension/observer v0.0.0-00010101000000-000000000000
 	github.com/spf13/cast v1.4.0
