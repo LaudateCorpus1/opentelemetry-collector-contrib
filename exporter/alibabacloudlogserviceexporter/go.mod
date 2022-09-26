@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/aliyun/aliyun-log-go-sdk v0.1.21
-	github.com/census-instrumentation/opencensus-proto v0.3.0
+	github.com/census-instrumentation/opencensus-proto v0.4.1
 	github.com/gogo/protobuf v1.3.2
 	github.com/stretchr/testify v1.7.0
 	go.opentelemetry.io/collector v0.31.1-0.20210810171211-8038673eba9e
